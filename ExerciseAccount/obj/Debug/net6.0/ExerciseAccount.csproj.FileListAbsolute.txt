@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\bin\Debug\net6.0\ExerciseAccount.exe
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\bin\Debug\net6.0\ExerciseAccount.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\bin\Debug\net6.0\ExerciseAccount.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\bin\Debug\net6.0\ExerciseAccount.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\bin\Debug\net6.0\ExerciseAccount.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\refint\ExerciseAccount.dll
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ExerciseAccount.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\ExerciseAccount\ExerciseAccount\obj\Debug\net6.0\ref\ExerciseAccount.dll
